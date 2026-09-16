@@ -35,7 +35,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Certifications" alt="Certifications" />
+<h2 align="center">GitHub Statistics</h2>
   
   <br/>
   
