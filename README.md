@@ -15,7 +15,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 *   **Core Focus Areas:** Java, Python, TypeScript, DevOps methodologies, and ITOM orchestrations.
 *   **Contact:** Connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-merino-p%C3%A9rez).
 
-<h3 align="center">Core Technologies</h3>
+<h2 align="center">Core Technologies</h2>
 
 
 <div align="center">
@@ -28,7 +28,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-### GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="left">
 <img src="github-metrics.svg?v=1" alt="GitHub Statistics for Jorge Merino" />
