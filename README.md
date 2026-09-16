@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-**Cloud Infrastructure & Platform Trainee @ NTT DATA | Software Developer**
-
 I am a Multiplatform Application Development (DAM) student and trainee focused on **automation, operational efficiency, and software development**. I bring a precise, detail-oriented methodology inherited from my background in chemistry and quality control into my tech career.
 
 - 🔭 I’m currently working on **native integrations and automations** (Ansible, Rundeck, AWX) at NTT DATA.
