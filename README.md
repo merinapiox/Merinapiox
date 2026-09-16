@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="banner"/>
+  <img src="banner_o.jpg" width="100%" alt="banner"/>
 </p>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Typing SVG" />
