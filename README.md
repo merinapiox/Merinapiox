@@ -15,7 +15,8 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 *   **Core Focus Areas:** Java, Python, TypeScript, DevOps methodologies, and ITOM orchestrations.
 *   **Contact:** Connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-merino-p%C3%A9rez).
 
-### Core Technologies
+<h3 align="center">Core Technologies</h3>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
