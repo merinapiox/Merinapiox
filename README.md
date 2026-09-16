@@ -35,7 +35,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <br/>
 
 <div align="center">
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">AI Certifications</h2>
   
   <br/>
   
