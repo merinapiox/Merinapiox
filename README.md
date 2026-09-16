@@ -15,8 +15,8 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 ### 📊 GitHub Stats & Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merinapiox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jorge's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merinapiox&layout=compact&theme=tokyonight&hide_border=true" alt="Jorge's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=merinapiox&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Jorge" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merinapiox&layout=compact&theme=tokyonight&hide_border=true" alt="Los principales idiomas de Jorge" />
 </div>
 
 <br />
