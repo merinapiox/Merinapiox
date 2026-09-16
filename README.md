@@ -32,14 +32,11 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 
 <div align="center">
 
-### Certifications
-
-*   **Codex Deployment Practitioner** — OpenAI
-*   **OpenAI Technical Practitioner** — OpenAI
-*   **ChatGPT Deployment Practitioner** — OpenAI
-*   **AI Technical Practitioner** — OpenAI
 
 ### Certifications
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Certifications+OpenAI" alt="Jorge Merino - Role and Headline" />
+</div>
 
 **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
 <img src="github-metrics.svg?v=1" alt="GitHub Statistics for Jorge Merino" />
