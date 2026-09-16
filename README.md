@@ -2,8 +2,6 @@
   <img src="banner_5.jpg" width="100%" alt="banner"/>
 </p>
 
-<div align="center">
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
