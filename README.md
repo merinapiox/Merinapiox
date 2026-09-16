@@ -39,5 +39,5 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
   
   <br/>
   
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23E6EDF3" width="24" align="center" alt="OpenAI Logo" /> &nbsp; **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
+  &nbsp; **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
 </div>
