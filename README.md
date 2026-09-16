@@ -35,7 +35,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <br/>
 
 <div align="center">
-<h2 align="center">AI Certifications</h2>
+<h2 align="center">AI Certifications</h2><img src="https://api.iconify.design/simple-icons:openai.svg?color=%23E6EDF3" width="24" align="center" alt="OpenAI Logo" />
   
   <br/>
   
