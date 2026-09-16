@@ -9,14 +9,12 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 
 <h2 align="center">Professional Overview</h2>
 
-
 *   **Current Role:** Cloud Infrastructure & Platform Trainee at NTT DATA, focusing on native integrations and automations utilizing Ansible, Rundeck, and AWX.
 *   **Active Development:** Building [Axonote](https://github.com/merinapiox/Axonote), a SaaS billing and quoting platform tailored for freelancers.
 *   **Core Focus Areas:** Java, Python, TypeScript, DevOps methodologies, and ITOM orchestrations.
 *   **Contact:** Connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-merino-p%C3%A9rez).
 
 <h2 align="center">Core Technologies</h2>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -31,11 +29,13 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Certifications+OpenAI" alt="Jorge Merino - Role and Headline" />
+  <img src="github-metrics.svg?v=1" alt="GitHub Statistics for Jorge Merino" />
 </div>
 
-**OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
-<img src="github-metrics.svg?v=1" alt="GitHub Statistics for Jorge Merino" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Certifications+OpenAI" alt="Certifications OpenAI" />
+  
+  <br/>
+  
+  **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
 </div>
