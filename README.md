@@ -29,5 +29,5 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 ### GitHub Statistics
 
 <div align="left">
-  <img src="github-metrics.svg" alt="GitHub Statistics for Jorge Merino" />
+<img src="github-metrics.svg?v=1" alt="GitHub Statistics for Jorge Merino" />
 </div>
