@@ -1,4 +1,5 @@
-# Jorge Merino Pérez
+
+<h1 align="center">Jorge Merino Pérez</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Jorge Merino - Role and Headline" />
@@ -15,7 +16,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 
 ### Core Technologies
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
