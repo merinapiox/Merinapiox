@@ -1,5 +1,8 @@
-# Hi there 👋, I am Jorge Merino Pérez
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="banner"/>
+</p>
 
+<div align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
