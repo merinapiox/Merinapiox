@@ -14,7 +14,7 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 
 ### 📊 GitHub Stats & Most Used Languages
 
-<div align="center">
+<div align="left">
   <img src="github-metrics.svg" alt="Estadísticas de Jorge" />
 </div>
 
