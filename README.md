@@ -1,15 +1,19 @@
-<h1 align="center">Hola, soy Jorge Merino 👋</h1>
-
 <p align="center">
-  <b>Estudiante de DAM</b> · <b>Cloud Infrastructure & Platform Engineering Trainee</b> en NTT DATA
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2CB&height=200&section=header&text=Jorge%20Merino%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Infrastructure%20%26%20Platform%20Engineering%20Trainee&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Vilaplana,_Tarragona-informational?style=flat-square" />
-  <a href="https://www.linkedin.com/in/jorge-merino-p%C3%A9rez"><img src="https://img.shields.io/badge/LinkedIn-Jorge_Merino_Pérez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Estudiante+de+DAM+%7C+Desarrollo+de+Software;Ansible+%C2%B7+Rundeck+%C2%B7+AWX+%C2%B7+Kubernetes;Automatizaci%C3%B3n+%26+DevOps+en+NTT+DATA;Construyendo+Axonote+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Vilaplana,_Tarragona-informational?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/jorge-merino-p%C3%A9rez"><img src="https://img.shields.io/badge/LinkedIn-Jorge_Merino_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00C2CB&height=3&width=1000" width="100%"/>
+</p>
 
 ### 🧭 Sobre mí
 
