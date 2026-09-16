@@ -35,7 +35,13 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <br/>
 
 <div align="center">
-<h2<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23E6EDF3" width="24" align="center" alt="OpenAI Logo" align="center">AI Certifications <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23E6EDF3" width="24" align="center" alt="OpenAI Logo" />h2
-<br/><br/>
-  &nbsp; **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
+  <h2>
+    <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23E6EDF3" width="28" alt="OpenAI Logo" /> 
+    AI Certifications 
+    <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23E6EDF3" width="28" alt="OpenAI Logo" />
+  </h2>
+
+  <br/>
+  
+  **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
 </div>
