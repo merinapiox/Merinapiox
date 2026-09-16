@@ -31,5 +31,16 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
+
+### Certifications
+
+*   **Codex Deployment Practitioner** — OpenAI
+*   **OpenAI Technical Practitioner** — OpenAI
+*   **ChatGPT Deployment Practitioner** — OpenAI
+*   **AI Technical Practitioner** — OpenAI
+
+### Certifications
+
+**OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
 <img src="github-metrics.svg?v=1" alt="GitHub Statistics for Jorge Merino" />
 </div>
