@@ -33,7 +33,6 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
 <div align="center">
 
 
-### Certifications
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&color=E6EDF3&center=true&vCenter=true&width=800&lines=Certifications+OpenAI" alt="Jorge Merino - Role and Headline" />
 </div>
