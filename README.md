@@ -7,7 +7,7 @@
 
 I am a Multiplatform Application Development (DAM) student and trainee focused on automation, operational efficiency, and software development. My approach to software engineering relies on a precise and detail-oriented methodology, a foundation built during my previous background in chemistry and quality control.
 
-<h2 alig="center">### Professional Overview</h2>
+<h2 align="center">Professional Overview</h2>
 
 
 *   **Current Role:** Cloud Infrastructure & Platform Trainee at NTT DATA, focusing on native integrations and automations utilizing Ansible, Rundeck, and AWX.
