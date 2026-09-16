@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Typing SVG" >/
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Typing SVG" />
 
 - 🔭 I’m currently working on **native integrations and automations** (Ansible, Rundeck, AWX) at NTT DATA.
 - 🌱 I’m currently developing **[Axonote](https://github.com/merinapiox/Axonote)**, a SaaS billing and quoting platform for freelancers.
