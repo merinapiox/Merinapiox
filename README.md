@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2CB&height=200&section=header&text=Jorge+Merino&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud+Infrastructure+%26+Platform+Engineering+Trainee&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%26+Platform+Eng.+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Estudiante+de+DAM+%7C+Desarrollo+de+Software;Ansible+%C2%B7+Rundeck+%C2%B7+AWX+%C2%B7+Kubernetes;Automatizaci%C3%B3n+%26+DevOps+en+NTT+DATA;Construyendo+Axonote+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=00C2CB&center=true&vCenter=true&width=640&lines=Ansible+%C2%B7+Rundeck+%C2%B7+AWX+%C2%B7+Kubernetes;Automatizaci%C3%B3n+%26+DevOps+en+NTT+DATA;Construyendo+Axonote+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,9 +11,7 @@
   <a href="https://www.linkedin.com/in/jorge-merino-p%C3%A9rez"><img src="https://img.shields.io/badge/LinkedIn-Jorge_Merino_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00C2CB&height=3&width=1000" width="100%"/>
-</p>
+---
 
 ### 🧭 Sobre mí
 
