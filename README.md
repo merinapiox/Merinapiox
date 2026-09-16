@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-I am a Multiplatform Application Development (DAM) student and trainee focused on **automation, operational efficiency, and software development**. I bring a precise, detail-oriented methodology inherited from my background in chemistry and quality control into my tech career.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Typing SVG" >/
 
 - 🔭 I’m currently working on **native integrations and automations** (Ansible, Rundeck, AWX) at NTT DATA.
 - 🌱 I’m currently developing **[Axonote](https://github.com/merinapiox/Axonote)**, a SaaS billing and quoting platform for freelancers.
