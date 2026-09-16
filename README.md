@@ -2,7 +2,7 @@
 <h1 align="center">Jorge Merino Pérez</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Jorge Merino - Role and Headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%26+Platform+Trainee;Estudiante+de+DAM+%7C+Desarrollo+de+Software" alt="Jorge Merino - Role and Headline" />
 </div>
 
 I am a Multiplatform Application Development (DAM) student and trainee focused on automation, operational efficiency, and software development. My approach to software engineering relies on a precise and detail-oriented methodology, a foundation built during my previous background in chemistry and quality control.
