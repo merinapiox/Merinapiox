@@ -37,7 +37,8 @@ I am a Multiplatform Application Development (DAM) student and trainee focused o
   
   <br/>
   
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" align="center" />
-  <br/><br/>
+  
+  <img src="https://cdn.simpleicons.org/openai/E6EDF3" width="18" align="center" alt="OpenAI Logo" /> &nbsp; **OpenAI:** Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
+</div>
   Codex Deployment Practitioner &nbsp;·&nbsp; OpenAI Technical Practitioner &nbsp;·&nbsp; ChatGPT Deployment Practitioner &nbsp;·&nbsp; AI Technical Practitioner
 </div>
