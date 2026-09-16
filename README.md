@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="banner_5.jpg" width="100%" alt="banner"/>
-</p>
+## Hi there 👋 I'm Jorge Merino
+
 
 <div align="center">
 <p align="center">
